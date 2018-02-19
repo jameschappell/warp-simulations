@@ -1,5 +1,6 @@
 """
-This is a Warp input script for laser-wakefield acceleration.
+This is an example Warp input script for laser-wakefield acceleration.
+Taken from https://people.nscl.msu.edu/~lund/uspas/sbp_2018/.
 
 Usage
 -----
